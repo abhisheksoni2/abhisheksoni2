@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhisek Soni</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A passionate Cloud/AI Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksoni2&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksoni2" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Terraform, Kubernate**
 
-- 💬 Ask me about **AWS, Python, GitHub, MySQL, Azure, Java**
+- 💬 Ask me about **AWS, Python, Azure, GenAI**
 
 - 📫 How to reach me **sonideepu282@gmail.com**
 
