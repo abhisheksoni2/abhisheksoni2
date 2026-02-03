@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksoni2" alt="abhisheksoni2" /></a> </p>
 
-- 🔭 I’m currently working on **AWS Cloud|DevOps**
+- 🔭 I’m currently working on **AWS Cloud|DevOps|AI**
 
 - 🌱 I’m currently learning **Terraform, Kubernate**
 
-- 💬 Ask me about **AWS, Python, Azure, GenAI**
+- 💬 Ask me about **AWS, Python, Azure, GenAI, Agent**
 
 - 📫 How to reach me **sonideepu282@gmail.com**
 
