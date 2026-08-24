@@ -13,31 +13,38 @@
 
 ### 👨‍💻 About Me
 
-- 💼 **4.5+ years of experience** as a Cloud & AI Engineer  
-- ☁️ Working across **AWS & Azure (multi-cloud systems)**  
-- 🤖 Building **GenAI applications using LLMs (OpenAI, Claude, Gemini, Bedrock)**  
-- 🧠 Experienced in **Agentic AI, LangChain, RAG pipelines, Vector DB**  
-- ⚙️ Strong in **DevOps, CI/CD, Docker, Infrastructure as Code**  
-- 🚀 Deploying scalable systems using **Lambda, ECS, EC2, API Gateway**  
+- 💼 **5+ years of experience** as a **Cloud & AI Engineer**
+- ☁️ Working across **AWS, Azure & GCP** and building cloud-native AI solutions
+- 🤖 Building **GenAI applications** using LLMs such as **OpenAI, Gemini, Claude & Amazon Bedrock**
+- 🧠 Experienced in **Agentic AI, Multi-Agent Systems, MCP & A2A communication**
+- 🔎 Designing **production-grade RAG pipelines** with hybrid search, vector databases, caching, evaluation & observability
+- ⚙️ Strong in **Python, FastAPI, LangChain, AI/LLM integrations and API development**
+- 🚀 Experienced with **DevOps, CI/CD, Docker, Infrastructure as Code and cloud deployments**
+- 🏗️ Working with **serverless, containerized and Kubernetes-based architectures**
 
 ---
 
 ### 🔭 Current Focus
 
-- ⚡ Designing **AI Agent systems & MCP-based architectures**
-- ☁️ Advanced **AWS Bedrock + LLM Gateway integrations**
-- 🛠️ Learning & implementing **Terraform + Kubernetes (EKS)**  
-- 📦 Optimizing **serverless & container-based architectures**
+- 🤖 Designing **production-ready Agentic AI & Multi-Agent architectures**
+- 🔗 Building systems using **MCP (Model Context Protocol) and A2A (Agent-to-Agent) communication**
+- 🧠 Advancing **RAG systems** with hybrid retrieval, reranking, evaluation, caching and observability
+- ☁️ Exploring **Google ADK, Agent Runtime, Vertex AI, AWS Bedrock and Azure AI**
+- ⚙️ Building **AI/LLMOps and DevOps pipelines** for reliable AI deployments
+- ☸️ Strengthening expertise in **Kubernetes, Terraform and cloud-native infrastructure**
+- 🔐 Focusing on **security, scalability, cost optimization and observability** for production AI systems
 
 ---
 
 ### 💬 Ask Me About
 
-- AWS (Lambda, ECS, ECR, S3, API Gateway, Bedrock)
-- Python (FastAPI, AI integrations)
-- GenAI (RAG, Prompt Engineering, LLM APIs)
-- DevOps (CI/CD, Docker, GitHub Actions)
-- Cloud Architecture & System Design
+- ☁️ **Cloud:** AWS, Azure, GCP
+- 🤖 **GenAI & Agents:** LLMs, Agentic AI, Multi-Agent Systems, MCP, A2A
+- 🔎 **RAG:** Advanced RAG, Hybrid Search, Vector DBs, Reranking, Evaluation & Optimization
+- 🐍 **Python:** FastAPI, AI/LLM integrations, backend services
+- ⚙️ **DevOps:** CI/CD, Docker, GitHub Actions, Terraform, Kubernetes
+- 🏗️ **Cloud Architecture:** Serverless, Containers, APIs & Production System Design
+- 📊 **AI/LLMOps:** Deployment, Observability, Evaluation, Scaling & Cost Optimization
 
 ---
 
